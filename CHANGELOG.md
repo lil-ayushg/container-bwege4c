@@ -1,3 +1,15 @@
+# v0.0.2 (Sun Aug 16 2026)
+
+#### ⚠️ Pushed to `main`
+
+- Integrate WireGuard and Tailscale services ([@lil-ayushg](https://github.com/lil-ayushg))
+
+#### Authors: 1
+
+- [@lil-ayushg](https://github.com/lil-ayushg)
+
+---
+
 # v0.0.1 (Sun Aug 16 2026)
 
 :tada: This release contains work from a new contributor! :tada:
